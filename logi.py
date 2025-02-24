@@ -22,6 +22,7 @@ def getmonth(a):
 
 
 ch = input("Wanna Play? (y/n) ")
+r = 1
 flag = 0
 
 while ch == 'y':
