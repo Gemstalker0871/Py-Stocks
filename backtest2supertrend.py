@@ -46,4 +46,4 @@ if isintrade:
 print("Total pnl is", total_pnl)
 
 
-#make dic of date entry, entry price, date exit, exit price, pnl
+#make dictionary of date entry, entry price, date exit, exit price, pnl
