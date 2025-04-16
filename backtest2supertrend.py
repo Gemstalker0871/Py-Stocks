@@ -47,3 +47,4 @@ print("Total pnl is", total_pnl)
 
 
 #make dictionary of date entry, entry price, date exit, exit price, pnl
+# 
